@@ -1,6 +1,8 @@
 # group-project_2019_enterprise-ICT-architectures
 Group Project for the Enterprise ICT Architecture. The goal was trying to solve a given problem implementing a new solution based on an ICT architecture.
 
+**Francesco Albertini**, **Davide Boero**, **Salvatore Faraone**, **Filippo Lafronza**, **Guglielmo Ranieri**.
+
 # Executive Summary
 
 People and ecosystems require an adequate quality as well as a steady equilibrium of the environment that surrounds them in order to live and prosper. 
